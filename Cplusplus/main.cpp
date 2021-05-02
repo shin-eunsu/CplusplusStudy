@@ -1,6 +1,7 @@
 #include "ch1.h"
+#include "ch1Quiz.h"
 
 int main(void)
 {
-	SimpleAdder();
+	ch1::nameSp();
 }
