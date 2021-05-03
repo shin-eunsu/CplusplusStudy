@@ -14,7 +14,7 @@
 
 #include <iostream>
 #include "OOP1.h"
-+9
+
 using namespace std;
 const int NAME_LEN = 20;
 
