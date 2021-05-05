@@ -142,6 +142,7 @@
     <ClCompile Include="ch1.cpp" />
     <ClCompile Include="ch1Quiz.cpp" />
     <ClCompile Include="ch2.cpp" />
+    <ClCompile Include="ch2Quiz.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="OOP1.cpp" />
   </ItemGroup>
@@ -149,6 +150,7 @@
     <ClInclude Include="ch1.h" />
     <ClInclude Include="ch1Quiz.h" />
     <ClInclude Include="ch2.h" />
+    <ClInclude Include="ch2Quiz.h" />
     <ClInclude Include="OOP1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
