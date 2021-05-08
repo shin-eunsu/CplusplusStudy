@@ -19,11 +19,19 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch3.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Q3_1.cpp" />
+    <ClCompile Include="Q3_2.cpp" />
+    <ClCompile Include="Q3_2_2.cpp" />
+    <ClCompile Include="RacingCar.cpp" />
+    <ClCompile Include="RacingCarClassBase.cpp" />
+    <ClCompile Include="RacingCarOuterFunc.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch3.h" />
+    <ClInclude Include="Q3_2.h" />
+    <ClInclude Include="Q3_2_2.h" />
+    <ClInclude Include="RacingCarClassBase.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
