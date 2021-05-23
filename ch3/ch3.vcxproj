@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FruitSaleSim1.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Q3_1.cpp" />
     <ClCompile Include="Q3_2.cpp" />
@@ -29,6 +30,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch3.h" />
+    <ClInclude Include="FruitSaleSim1.h" />
     <ClInclude Include="Q3_2.h" />
     <ClInclude Include="Q3_2_2.h" />
     <ClInclude Include="RacingCarClassBase.h" />
