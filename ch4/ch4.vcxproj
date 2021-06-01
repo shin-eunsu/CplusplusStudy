@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Constructor1.cpp" />
     <ClCompile Include="Encaps1.cpp" />
     <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="main.cpp" />
