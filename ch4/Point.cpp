@@ -3,17 +3,18 @@
 
 using namespace std;
 
-bool Point::InitMembers(int xPos, int yPos)
+Point::Point()
+	: mX(0)
+	, mY(0)
 {
-	if (xPos < 0 || yPos < 0)
-	{
-		cout << "out of range" << endl;
-		return false;
-	}
 
-	mX = xPos;
-	mY = yPos;
-	return true;
+}
+
+Point::Point(const int& xPos, const int& yPos)
+	: mX(xPos)
+	, mY(yPos)
+{
+
 }
 
 int Point::GetX() const

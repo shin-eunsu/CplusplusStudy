@@ -140,20 +140,25 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Constructor1.cpp" />
+    <ClCompile Include="Destructor.cpp" />
     <ClCompile Include="Encaps1.cpp" />
     <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Point.cpp" />
+    <ClCompile Include="PrivateConstructor.cpp" />
     <ClCompile Include="Q4_1.cpp" />
     <ClCompile Include="Q4_2.cpp" />
+    <ClCompile Include="Q4_3.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="RectangleFault.cpp" />
+    <ClCompile Include="ReferenceMember.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch4.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="Q4_1.h" />
     <ClInclude Include="Q4_2.h" />
+    <ClInclude Include="Q4_3.h" />
     <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
