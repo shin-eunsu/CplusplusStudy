@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CComStatic.cpp" />
     <ClCompile Include="ConstObject.cpp" />
     <ClCompile Include="ConstOverloading.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MyFriendClass.cpp" />
     <ClCompile Include="MyFriendFunction.cpp" />
+    <ClCompile Include="NeedGlobal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch6.h" />
