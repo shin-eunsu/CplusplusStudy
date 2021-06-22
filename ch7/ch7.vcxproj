@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b6c14d8a-ad49-44af-83bb-95f0e87871db}</ProjectGuid>
-    <RootNamespace>ch6</RootNamespace>
+    <ProjectGuid>{f08a82e7-9582-4f39-9ace-59ad27c68b35}</ProjectGuid>
+    <RootNamespace>ch7</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,19 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CComStatic.cpp" />
-    <ClCompile Include="ConstObject.cpp" />
-    <ClCompile Include="ConstOverloading.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Mutable.cpp" />
-    <ClCompile Include="MyFriendClass.cpp" />
-    <ClCompile Include="MyFriendFunction.cpp" />
-    <ClCompile Include="NeedGlobal.cpp" />
-    <ClCompile Include="PublicStaticMember.cpp" />
-    <ClCompile Include="StaticMember.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ch6.h" />
+    <ClInclude Include="ch7.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
