@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DerivCreOrder.cpp" />
+    <ClCompile Include="DerivDestOrder.cpp" />
+    <ClCompile Include="EmployManager1.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="UnivStudentInheri.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch7.h" />
