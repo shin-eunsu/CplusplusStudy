@@ -142,7 +142,9 @@
     <ClCompile Include="DerivCreOrder.cpp" />
     <ClCompile Include="DerivDestOrder.cpp" />
     <ClCompile Include="EmployManager1.cpp" />
+    <ClCompile Include="ISAInheritance.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ProtectedHeri.cpp" />
     <ClCompile Include="UnivStudentInheri.cpp" />
   </ItemGroup>
   <ItemGroup>

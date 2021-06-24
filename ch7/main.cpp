@@ -5,5 +5,6 @@ int main()
 	//EmployManager1_Main();
 	//UnivStudentInheri_Main();
 	//DerivCreOrder_Main();
-	DerivDestOrder_Main();
+	//DerivDestOrder_Main();
+	ISA_Main();
 }
