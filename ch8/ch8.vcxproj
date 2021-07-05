@@ -143,8 +143,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EmployManager2.cpp" />
+    <ClCompile Include="FunctionOverride.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ObjectPointer.cpp" />
+    <ClCompile Include="ReferenceAttribute.cpp" />
+    <ClCompile Include="VirtualDestructor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

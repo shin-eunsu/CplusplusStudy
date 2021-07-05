@@ -4,7 +4,9 @@
 int main()
 {
 	//ObjectPointerMain();
-	EmployManager2Main();
-
+	//EmployManager2Main();
+	//FunctionOVerrideMain();
+	//VirtualDestructorMain();
+	ReferenceAttributeMain();
 	return 0;
 }
